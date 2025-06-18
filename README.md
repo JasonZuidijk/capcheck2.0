@@ -28,3 +28,9 @@ CD into backend/
 In the terminal write PYTHONPATH=. then your absolute route, e.g. PYTHONPATH=. python3 app/data/seed.py to run a file.
 To run a test write PYTHONPATH=. then your absolute route, e.g, PYTHONPATH=. pytest app/tests
 
+This project was built collaboritively with,
+@jashworth11, https://github.com/jashworth11
+@T0mmy-Pearson, https://github.com/T0mmy-Pearson
+@Yan2992, https://github.com/Yan2992
+@gabepayne3, https://github.com/gabepayne3
+@IsaacAlbiston, https://github.com/IsaacAlbiston
